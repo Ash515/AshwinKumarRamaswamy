@@ -4,7 +4,7 @@ body{
     font-display: flex;
 }
 .main{
-	background-image: url("./images/pro.png");
+	background-image: url("/images/pro.png");
     background-position:cover;
     padding-bottom:50px;
     padding-top:0px;
